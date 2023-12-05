@@ -1,6 +1,6 @@
 # Martyna Rachańczyk
 
-<img src="profile_photo.jpg" alt="Marti" width="100" align="left"/>
+<img src="profile_photo.jpg" alt="Marti" width="60%" height="30%">
 
 ### Contact Information
 - **Phone:** +48 573 999 794
