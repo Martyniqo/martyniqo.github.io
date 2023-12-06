@@ -1,10 +1,14 @@
 # Martyna Rachańczyk
 
-| <img src="profile_photo.jpg" alt="Marti" width="200px" /> | <br><br> <br> <br> <br> <br> <br> <br> Phone: +48 573 999 794<br>Email: [rachanczykmartyna@gmail.com](mailto:rachanczykmartyna@gmail.com)<br>LinkedIn: [linkedin/martynarachanczyk](https://www.linkedin.com/in/martynarachanczyk/) |
-|-------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<img src="profile_photo.jpg" alt="Marti" width="200px" /> <br>
+*Phone:* +48 573 999 794 <br>
+*Email:* [rachanczykmartyna@gmail.com](mailto:rachanczykmartyna@gmail.com)<br>
+*LinkedIn:* [linkedin/martynarachanczyk](https://www.linkedin.com/in/martynarachanczyk/)
+
 
 ### <span style="color: lightblue;"> About Me
-I am known for my meticulousness and unwavering determination to achieve my career aspirations. My goal is to obtain a position as a Data Analyst or Data Scientist. I am looking for a job that will give me the opportunity to increase my proficiency in Python programming and cloud technology through hands-on involvement in various projects. I enjoy working as part of a team and am able to take a leadership role.
+My primary ambition revolves around nurturing my passion and growth. I am deeply intrigued by the realm of artificial intelligence and data science. My expertise lies in constructing sophisticated models using machine learning techniques and crafting applications that harness the power of advanced language models. Daily, I engage with vector databases and OpenAI's suite of tools, ensuring I remain abreast of cutting-edge advancements in the field.
 
 ### <span style="color: lightblue;">Work Experience
 <span style="color: #FFA500;">**GenAI Engineer**<br>
